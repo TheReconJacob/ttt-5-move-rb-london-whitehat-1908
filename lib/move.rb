@@ -13,4 +13,4 @@ def input_to_index(string)
 end
 
 def move(board, index, user_marker = "X")
-  board[indexto_1]
+  board[index.to_1]
